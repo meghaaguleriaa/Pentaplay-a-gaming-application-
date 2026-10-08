@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "PentaPlay",
+			"path": "."
+		},
+		{
+			"name": "candycrush",
+			"path": "../candycrush"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PentaPlay"
+	}
+}
